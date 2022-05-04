@@ -1,0 +1,1 @@
+# SimpleForexMACD_Strategy_Bot
