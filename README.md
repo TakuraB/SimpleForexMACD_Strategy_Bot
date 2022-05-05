@@ -6,7 +6,7 @@ HigherTimeFrame - Self explanatory I guess
 
 MinBarsCount - This is the minimum number of bars on the MACD indicator to validate a swing high/low any thing less is not considered valid
 
-LossOffsetFactor - The SL is calculated based on the candle with the swiing high or low, the extremes of the candle gives the entry price and SL. However SL can be modified to be LossOffsetFactor(entry-SL)
+LossOffsetFactor - The SL is calculated based on the candle with the swing high or low, the extremes of the candle gives the entry price and SL. However SL can be modified to be LossOffsetFactor(entry-SL)
 
 RiskReward - TP is set based on a fixed RR
 
